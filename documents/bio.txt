@@ -1,2 +1,3 @@
  My name is smothkd54, and I am a software development student based here. I am currently pursuing my studies in technology, focusing heavily on Kotlin and backend architecture like Spring Boot. My technical interests include exploring DevOps workflows, continuous integration, and deploying scalable network applications. Outside of my schoolwork, my favorite hobbies are building custom home servers, experimenting with local file sharing solutions, and optimizing my home network environment.
 
+I also enjoy listening to tech podcasts.
